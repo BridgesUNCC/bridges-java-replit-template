@@ -19,6 +19,4 @@ wget http://bridgesuncc.github.io/sw/replit-example-Makefile-Java -O ${REPL_PATH
 #
 export CLASSPATH=${REPL_PATH}/lib/bridges-java.jar:.
 
-echo something > ${REPL_PATH}/sss
-
 #
