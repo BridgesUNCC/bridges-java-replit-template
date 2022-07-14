@@ -1,6 +1,6 @@
 import bridges.connect.Bridges;
 
-class java_test {
+class Main {
   // Put your assignment template here
   
   public static void main(String[] args) {
